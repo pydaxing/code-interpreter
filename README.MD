@@ -449,22 +449,22 @@ TO USER: 刚刚您让我使用快速排序算法对数组【1, 6, 7, 4, 5, 9】�
 
 
 ## 1. 数据分析、文件处理、计算器
-[![数据分析、文件处理、计算器](https://pydaxing-public.oss-cn-hangzhou.aliyuncs.com/20240625_Code_Interpreter/data_analysis_thumbnail.png)](https://pydaxing-public.oss-cn-hangzhou.aliyuncs.com/20240625_Code_Interpreter/data_analysis_file_calculate.mp4)  
+https://pydaxing-public.oss-cn-hangzhou.aliyuncs.com/20240625_Code_Interpreter/data_analysis_file_calculate.mp4
 *点击图片观看视频演示*
 
 
 ## 2. 机器学习模型预测、相关性分析
-[![机器学习模型预测、相关性分析](https://pydaxing-public.oss-cn-hangzhou.aliyuncs.com/20240625_Code_Interpreter/machine_learning_thumbnail.png)](https://pydaxing-public.oss-cn-hangzhou.aliyuncs.com/20240625_Code_Interpreter/machine_learning.mp4)  
+https://pydaxing-public.oss-cn-hangzhou.aliyuncs.com/20240625_Code_Interpreter/machine_learning.mp4
 *点击图片观看视频演示*
 
 
 ## 3. 二维码生成
-[![二维码生成](https://pydaxing-public.oss-cn-hangzhou.aliyuncs.com/20240625_Code_Interpreter/er_wei_ma_thumbnail.png)](https://pydaxing-public.oss-cn-hangzhou.aliyuncs.com/20240625_Code_Interpreter/er_wei_ma.mp4)  
+https://pydaxing-public.oss-cn-hangzhou.aliyuncs.com/20240625_Code_Interpreter/er_wei_ma.mp4
 *点击图片观看视频演示*
 
 
 ## 4. 词云图生成
-[![词云图生成](https://pydaxing-public.oss-cn-hangzhou.aliyuncs.com/20240625_Code_Interpreter/ci_cloud_thumbnail.png)](https://pydaxing-public.oss-cn-hangzhou.aliyuncs.com/20240625_Code_Interpreter/ci_cloud.mp4)  
+https://pydaxing-public.oss-cn-hangzhou.aliyuncs.com/20240625_Code_Interpreter/ci_cloud.mp4
 *点击图片观看视频演示*
 
 
