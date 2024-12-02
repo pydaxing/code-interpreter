@@ -1,0 +1,56 @@
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://0.0.0.0:8080
+
+/mnt/workspace/workgroup/lengmou/miniconda3/envs/code_interpreter/lib/python3.10/site-packages/langchain_core/_api/beta_decorator.py:87: LangChainBetaWarning: This API is in beta and may change in the future.
+  warn_beta(
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://0.0.0.0:8080
+
+/mnt/workspace/workgroup/lengmou/miniconda3/envs/code_interpreter/lib/python3.10/site-packages/langchain_core/_api/beta_decorator.py:87: LangChainBetaWarning: This API is in beta and may change in the future.
+  warn_beta(
+2024-06-18 18:47:02.454 Uncaught app exception
+Traceback (most recent call last):
+  File "/mnt/workspace/workgroup/lengmou/miniconda3/envs/code_interpreter/lib/python3.10/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 600, in _run_script
+    exec(code, module.__dict__)
+  File "/mnt/workspace/workgroup/lengmou/Demo/code-interpreter/src/welcome.py", line 82, in <module>
+    asyncio.run(solve(graph, config, prompt))
+  File "/mnt/workspace/workgroup/lengmou/miniconda3/envs/code_interpreter/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/mnt/workspace/workgroup/lengmou/miniconda3/envs/code_interpreter/lib/python3.10/asyncio/base_events.py", line 649, in run_until_complete
+    return future.result()
+  File "/mnt/workspace/workgroup/lengmou/Demo/code-interpreter/src/utils/streamlit_util.py", line 139, in solve
+    for token in on_tool_end(event):
+  File "/mnt/workspace/workgroup/lengmou/Demo/code-interpreter/src/utils/streamlit_util.py", line 89, in on_tool_end
+    if exec_out["results"]:
+TypeError: string indices must be integers
+2024-06-18 18:49:49.730 Uncaught app exception
+Traceback (most recent call last):
+  File "/mnt/workspace/workgroup/lengmou/miniconda3/envs/code_interpreter/lib/python3.10/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 600, in _run_script
+    exec(code, module.__dict__)
+  File "/mnt/workspace/workgroup/lengmou/Demo/code-interpreter/src/welcome.py", line 15, in <module>
+    from utils.streamlit_util import clear_chat_history, build_graph, history, solve
+  File "/mnt/workspace/workgroup/lengmou/Demo/code-interpreter/src/utils/streamlit_util.py", line 86
+    if not isinstance(exec_out, str)
+                                    ^
+SyntaxError: expected ':'
+Killed
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://0.0.0.0:8080
+
+/mnt/workspace/workgroup/lengmou/miniconda3/envs/code_interpreter/lib/python3.10/site-packages/langchain_core/_api/beta_decorator.py:87: LangChainBetaWarning: This API is in beta and may change in the future.
+  warn_beta(
