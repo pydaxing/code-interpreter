@@ -447,25 +447,25 @@ TO USER: 刚刚您让我使用快速排序算法对数组【1, 6, 7, 4, 5, 9】�
 
 为了进一步挖掘 Code Interpreter 的能力，我们结合 Streamlit 构建了一个可通过 Web 使用的 Demo，并优化了 Prompt 等，目前可以实现较为复杂的功能。功能包括：数据分析、文件处理、计算器、机器学习模型预测、相关性分析、二维码生成、词云图生成等。
 
+---
 
 ## 1. 数据分析、文件处理、计算器
-https://pydaxing-public.oss-cn-hangzhou.aliyuncs.com/20240625_Code_Interpreter/data_analysis_file_calculate.mp4
-*点击图片观看视频演示*
+[点击观看视频](https://pydaxing-public.oss-cn-hangzhou.aliyuncs.com/20240625_Code_Interpreter/data_analysis_file_calculate.mp4)
 
+---
 
 ## 2. 机器学习模型预测、相关性分析
-https://pydaxing-public.oss-cn-hangzhou.aliyuncs.com/20240625_Code_Interpreter/machine_learning.mp4
-*点击图片观看视频演示*
+[点击观看视频](https://pydaxing-public.oss-cn-hangzhou.aliyuncs.com/20240625_Code_Interpreter/machine_learning.mp4)
 
+---
 
 ## 3. 二维码生成
-https://pydaxing-public.oss-cn-hangzhou.aliyuncs.com/20240625_Code_Interpreter/er_wei_ma.mp4
-*点击图片观看视频演示*
+[点击观看视频](https://pydaxing-public.oss-cn-hangzhou.aliyuncs.com/20240625_Code_Interpreter/er_wei_ma.mp4)
 
+---
 
 ## 4. 词云图生成
-https://pydaxing-public.oss-cn-hangzhou.aliyuncs.com/20240625_Code_Interpreter/ci_cloud.mp4
-*点击图片观看视频演示*
+[点击观看视频](https://pydaxing-public.oss-cn-hangzhou.aliyuncs.com/20240625_Code_Interpreter/ci_cloud.mp4)
 
 
 理论上python能做的事情，Code Interpreter都能做。后续我们将进一步探索Code Interpreter的上限。
